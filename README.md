@@ -10,12 +10,12 @@ It uses a [Libre] distribution of Subsonic, free of licensing checks.
 
 Created with minimal and KISS principles, it contains only the parts necessary to run Subsonic, weighing in at just under 250MB.
 
-| Software Stack |
-| :------------: |
-| Subsonic       |
-| Apache Tomcat  |
-| OpenJDK        |
-| Alpine Linux   |
+| Software Stack       |
+| :------------------: |
+| Subsonic 5.3         |
+| Apache Tomcat 8.0.32 |
+| OpenJDK 1.8.0        |
+| Alpine Linux 3.3     |
 
 
 ## How to use this image
