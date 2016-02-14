@@ -6,7 +6,7 @@
 
 This is a lightweight docker image for Subsonic, built on top of Alpine Linux.
 
-It uses a [Libre] distribution of Subsonic free of licensing checks, created by [EugeneKay].
+It uses a [Libre] distribution of Subsonic, free of licensing checks.
 
 Created with minimal and KISS principles, it contains only the parts necessary to run Subsonic, weighing in at just under 250MB.
 
@@ -31,5 +31,4 @@ Run instructions can be found in the [wiki].
 [alpine]: http://i.imgur.com/zzi5aY0.png "Alpine"
 [subsonic]: http://i.imgur.com/AhNrCFS.png "Subsonic"
 [Libre]: https://github.com/EugeneKay/subsonic
-[EugeneKay]: https://github.com/EugeneKay
 [wiki]: https://github.com/cavemandaveman
