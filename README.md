@@ -1,4 +1,4 @@
-# Docker Subsonic
+# Docker Subsonic Libre
 
 ## 
 
@@ -31,4 +31,4 @@ Run instructions can be found in the [wiki].
 [alpine]: http://i.imgur.com/zzi5aY0.png "Alpine"
 [subsonic]: http://i.imgur.com/AhNrCFS.png "Subsonic"
 [Libre]: https://github.com/EugeneKay/subsonic
-[wiki]: https://github.com/cavemandaveman/docker-subsonic/wiki/Running-the-Image
+[wiki]: https://github.com/cavemandaveman/docker-subsonic-libre/wiki/Running-the-Image
