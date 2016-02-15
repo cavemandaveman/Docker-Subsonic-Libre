@@ -21,7 +21,7 @@ Created with minimal and KISS principles, it contains only the parts necessary t
 ## How to use this image
 
 ```
-docker pull cavemandaveman/subsonic-libre
+docker pull cavemandaveman/subsonic-libre:latest
 ```
 
 Run instructions can be found in the [wiki].
@@ -31,4 +31,4 @@ Run instructions can be found in the [wiki].
 [alpine]: http://i.imgur.com/zzi5aY0.png "Alpine"
 [subsonic]: http://i.imgur.com/AhNrCFS.png "Subsonic"
 [Libre]: https://github.com/EugeneKay/subsonic
-[wiki]: https://github.com/cavemandaveman
+[wiki]: https://github.com/cavemandaveman/docker-subsonic/wiki/Running-the-Image
